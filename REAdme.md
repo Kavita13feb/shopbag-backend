@@ -4,7 +4,7 @@ proccess to add files:-
 1. npm init -y 
 2. npm i json-server cors
 3. npm i json-serve
-4. add db.json
+4. add db.json and paste  all data
 5. create server.js  and add ----->
 ###
 const jsonServer = require('json-server')
