@@ -6,6 +6,7 @@ proccess to add files:-
 3. npm i json-serve
 4. add db.json
 5. create server.js  and add ----->
+###
 const jsonServer = require('json-server')
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
@@ -18,11 +19,11 @@ server.listen(port, () => {
   console.log('JSON Server is running')
 })
 
-
+###
 process to deploy on render-
-- login render through github
--click on new 
--select web service
--give api name
-- and click on deploy
--it will take some time to deploy
+# login render through github
+# click on new 
+# select web service
+# give api name
+# and click on deploy
+# it will take some time to deploy
