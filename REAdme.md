@@ -21,9 +21,9 @@ server.listen(port, () => {
 
 ###
 process to deploy on render-
-# login render through github
-# click on new 
-# select web service
-# give api name
-# and click on deploy
-# it will take some time to deploy
+1.  login render through github
+2.  click on new 
+3.  select web service
+4.  give api name
+5.  and click on deploy
+6.  it will take some time to deploy
